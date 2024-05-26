@@ -1,6 +1,9 @@
 # Project Title
 Kafka validator
 
+## Architecture Diagram
+![Architecture Diagram](./images/Architecture.drawio.png)
+
 ## Description
 
 This project is a Kafka message processing application. 
