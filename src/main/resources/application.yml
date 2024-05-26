@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: kafka-validator
+  kafka:
+    bootstrap-servers: localhost:29092, localhost:39092, localhost:49092
+    client-id: kafka-validator
